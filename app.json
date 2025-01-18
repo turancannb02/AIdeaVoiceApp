@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-file-system",
+        {
+          "filePermission": "read-write"
+        }
+      ]
+    ],
+    "newArchEnabled": true
+  }
+}
